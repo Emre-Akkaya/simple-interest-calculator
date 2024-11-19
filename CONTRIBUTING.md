@@ -1,4 +1,4 @@
-Thank you for contributing to this project! We welcome contributions of all kinds
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 Reporting Issues: If you find a bug or have a suggestion for improvement, clearly describe the problem or your idea and please open an ticket on GitHub.
 
